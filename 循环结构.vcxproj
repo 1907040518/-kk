@@ -124,7 +124,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="qq.cpp" />
+    <ClCompile Include="函数的嵌套.cpp" />
+    <ClCompile Include="选择法数据排序.cpp" />
+    <ClCompile Include="阶乘.cpp" />
     <ClCompile Include="判断素数.cpp" />
     <ClCompile Include="第一题.cpp" />
     <ClCompile Include="第二题.cpp" />

@@ -24,7 +24,13 @@
     <ClCompile Include="判断素数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="qq.cpp">
+    <ClCompile Include="阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的嵌套.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择法数据排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
