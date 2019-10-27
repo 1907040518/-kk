@@ -76,6 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>false</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <DisableSpecificWarnings>4996</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -123,6 +124,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="qq.cpp" />
+    <ClCompile Include="判断素数.cpp" />
     <ClCompile Include="第一题.cpp" />
     <ClCompile Include="第二题.cpp" />
   </ItemGroup>

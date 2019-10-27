@@ -21,5 +21,11 @@
     <ClCompile Include="第二题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="判断素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="qq.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
